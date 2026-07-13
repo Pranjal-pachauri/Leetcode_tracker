@@ -1,0 +1,3 @@
+-- Last updated: 7/13/2026, 10:08:33 AM
+# Write your MySQL query statement below
+select name from Customer where referee_id is null || referee_id!=2;
